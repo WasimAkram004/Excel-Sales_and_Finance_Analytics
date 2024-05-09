@@ -5,7 +5,7 @@
 ## Sales Report :
 - **Project Objective:** 
 
-    **1.** Create a [Customer Performance Report]((https://github.com/WasimAkram004/Excel-Sales-Finance_Analytics/blob/main/Customer%20Performance%20Report.pdf)
+    **1.** Create a [Customer Performance Report]((https://github.com/WasimAkram004/Excel-Sales_and_Finance_Analytics/blob/main/Customer%20Performance%20Report.pdf)
 
     **2.** Conduct a comprehensive comparison between _[Market Performance and Sales Targets](https://github.com/WasimAkram004/Excel-Sales-Finance_Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
 
